@@ -1,6 +1,6 @@
 # about-me
-Hi there! I'm a 9th grade student from Çanakkale/Türkiye. 
-I am passionate abaut coding , chemistry, and science in general. I am currently focused on improving my software skills, learning English and preparing for my academic future. 
+Hi there! I'm a 10th grade student from Çanakkale/Türkiye. 
+I am passionate abaut coding , chemistry and science in general. I am currently focused on improving my software skills, learning English and preparing for my academic future. 
 
 ## Goals
 -Study Software Engineering or Bioengineering at a top university (lite MIT)
